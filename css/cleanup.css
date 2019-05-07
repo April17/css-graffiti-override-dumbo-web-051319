@@ -5,12 +5,12 @@
 #wall .tag-1 + #tag-2 {
   display: none;
 }
-#wall .tag-1 + #tag-2 + #tag-3 {
+#wall #tag-3.wicked {
   display: none;
 }
 #wall .parent #tag-4 {
   display: none;
 }
-#wall .parent  #tag-5.slick div[class^="tag"] {
+div#wall .parent  #tag-5.slick {
   display: none;
 }
